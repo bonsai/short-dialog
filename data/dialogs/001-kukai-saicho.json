@@ -1,0 +1,20 @@
+{
+  "duration": 80,
+  "title": "空海と最澄｜ことばは、真理を伝えられるのか",
+  "messages": [
+    { "id": "01", "start": 0, "end": 5, "speaker": "left", "text": "最澄、ひとつ聞きたい。" },
+    { "id": "02", "start": 5, "end": 10, "speaker": "right", "text": "何でしょう、空海。" },
+    { "id": "03", "start": 10, "end": 16, "speaker": "left", "text": "言葉だけで、真理を伝えられると思うか。" },
+    { "id": "04", "start": 16, "end": 22, "speaker": "right", "text": "教えを言葉にしなければ、人には届きません。" },
+    { "id": "05", "start": 22, "end": 28, "speaker": "left", "text": "だが、言葉は真理そのものではない。" },
+    { "id": "06", "start": 28, "end": 34, "speaker": "right", "text": "では、どうすれば届くのでしょう。" },
+    { "id": "07", "start": 34, "end": 40, "speaker": "left", "text": "聞く者自身が、体験することだ。" },
+    { "id": "08", "start": 40, "end": 46, "speaker": "right", "text": "学ぶことより、行うことを重く見るのですね。" },
+    { "id": "09", "start": 46, "end": 52, "speaker": "left", "text": "知識だけでは、心は変わらぬ。" },
+    { "id": "10", "start": 52, "end": 58, "speaker": "right", "text": "しかし、言葉がなければ始めることもできません。" },
+    { "id": "11", "start": 58, "end": 64, "speaker": "left", "text": "だからこそ、言葉の先へ進まねばならない。" },
+    { "id": "12", "start": 64, "end": 69, "speaker": "right", "text": "言葉を捨てるのではなく、言葉を超える。" },
+    { "id": "13", "start": 69, "end": 74, "speaker": "left", "text": "そういうことだ。" },
+    { "id": "14", "start": 74, "end": 80, "speaker": "right", "text": "ならば、今日も学び、行ってみましょう。" }
+  ]
+}
